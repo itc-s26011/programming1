@@ -8,3 +8,4 @@ def tpadd(x, y):
     return x + y
 print(list(map(tpadd, tp1, tp2)))
 
+
